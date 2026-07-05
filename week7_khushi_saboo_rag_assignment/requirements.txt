@@ -1,0 +1,10 @@
+datasets
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+pandas
+langchain-text-splitters
+chromadb
+langchain-ollama
